@@ -1,3 +1,4 @@
+@smoke
 Feature: The xfinity project
 
 Scenario: The xfinity speed projects
